@@ -1,0 +1,1 @@
+usar variavel e set variavel no state
