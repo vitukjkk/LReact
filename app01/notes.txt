@@ -1,1 +1,11 @@
 usar variavel e set variavel no state
+useEffect vem td vez q a página atualiza
+
+até agr usamos componentes funcionais
+
+BIND - ESTUDAR! - SERVE PARA VINCULAR O THIS
+
+CONSUMIR API
+1 - montar a API
+2 - npm install axios react-axios
+3 - axios.get
